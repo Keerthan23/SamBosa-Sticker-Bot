@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/sambosa.png)
 Format: ![Alt Text](url)
 
 
