@@ -9,6 +9,7 @@
 1. nodejs
 1. npm
 1. ffmpeg
+2. Get api https://stickerman.org
 # Installation method || طريقة التثبيت
 
 
