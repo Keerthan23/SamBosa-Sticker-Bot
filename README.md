@@ -1,6 +1,6 @@
 ![SamBosa sticker Logo](/sambosa.png)
 
-# SamBosa-Sticker-Bot || بوت سمبوسه استكر
+#  SamBosa-Sticker-Bot || بوت سمبوسه استكر
 ##### A script that converts images, videos and carrion into stickers whatsapp.
 ##### برنامج نصي يقوم بتحويل الصور والفيديو والجيف الى ملصقات للواتساب
 # Requirements || متطلبات الشتغيل
