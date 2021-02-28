@@ -31,6 +31,14 @@
 
 ![SamBosa sticker Logo](/image/8.png)
 
+##
+##
+##
+
+![SamBosa sticker Logo](/image/1.gif)
+##
+![SamBosa sticker Logo](/image/2.gif)
+
 
 
 # Bot features || مميزات البوت
