@@ -26,7 +26,7 @@
 ###### or
 * `node m3-ar.js`
 
-#### Open a file m3-en or m3-ar And replace the api key 
+#### Open a file m3-en.js or m3-ar.js And replace the api key 
 *You can get an api key from the site https://stickerman.org*
 
 ![SamBosa sticker Logo](/image/8.png)
