@@ -1,0 +1,41 @@
+{
+  "name": "coligans",
+  "version": "0.0.1",
+  "description": "A BOT PUBLIC MULTI FUNCTION",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "m3-en.js",
+  "scripts": {
+    "start": "node m3-en.js",
+    "test": "node m3-en.js"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.6.13",
+    "@open-wa/wa-decrypt": "^3.0.1",
+    "@tensorflow/tfjs-node": "^3.2.0",
+    "mime-types": "^2.1.29",
+    "fs-extra": "^9.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "process": "^0.11.10",
+    "request": "^2.88.2",
+    "stream": "^0.0.2",
+    "sharp": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry2n711/SamBosa-Sticker-Bot.git"
+  },
+  "keywords": [
+    "sambosabot",
+    "sambosa-sticker",
+    "whatsapp sticker",
+    "whatsapp-bot"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ry2n711/SamBosa-Sticker-Bot/issues"
+  },
+  "homepage": "https://github.com/ry2n711/SamBosa-Sticker-Bot#readme",
+  "author": "ryan almalki"
+}
