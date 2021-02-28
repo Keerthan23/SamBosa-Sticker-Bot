@@ -19,7 +19,7 @@
  
  * `cd SamBosa-Sticker-Bot`
 
-`sudo sh m3.sh`
+* `sudo sh m3.sh`
 
 * `npm i`
 
