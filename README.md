@@ -1,5 +1,4 @@
-![GitHub Logo](/sambosa.png)
-Format: ![Alt Text](url)
+~~![SamBosa sticker Logo](/sambosa.png)~~
 
 
 # SamBosa-Sticker-Bot || بوت سمبوسه استكر
